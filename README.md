@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MehulAgarwalDev/mehulagarwal/main/banner_new.png" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Mehul Agarwal</h1>
 <p align="center"><em>Empowering Ideas Through Code</em></p>
