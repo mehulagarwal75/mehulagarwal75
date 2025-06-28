@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MehulAgarwalDev/mehulagarwal/main/Capture.PNG" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/MehulAgarwalDev/mehulagarwal/main/banner_new.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Mehul Agarwal</h1>
@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yourgithub?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/yourgithub?label=Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=yourgithub&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/mehulagarwal75?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/mehulagarwal75?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=mehulagarwal75&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 Hi there! 👋 I'm **Mehul Agarwal** 😄  
 I'm an enthusiastic developer and passionate about building digital products and solving real-world problems with code.
 
-- 🎯 Owner of **Jeen Creation**
+- 🏏 Owner of **Jeen Creation**
 - 💼 Skilled in **App/Web Development**, **UI/UX Design**, and **JavaScript** technologies
 - 🚀 Always ready to collaborate on open-source and client projects
 
