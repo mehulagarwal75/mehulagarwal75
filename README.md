@@ -10,20 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/(https://linkedin.com/in/mehul-agarwal-9680a1314)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://medium.com/@yourmedium">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
-  </a>
-  <a href="https://instagram.com/yourinstagram">
+  <a href="https://instagram.com/mehul_agarwal_75">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="mailto:mehulsample@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
