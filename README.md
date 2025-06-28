@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/(https://linkedin.com/in/mehul-agarwal-9680a1314)">
+  <a href="https://linkedin.com/in/Mehul Agarwal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/mehul_agarwal_75">
