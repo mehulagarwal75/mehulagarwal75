@@ -40,33 +40,26 @@
 Hi there! 👋 I'm **Mehul Agarwal** 😄  
 I'm an enthusiastic developer and passionate about building digital products and solving real-world problems with code.
 
-- 🎯 Owner of **Jeen Creation**
 - 💼 Skilled in **App/Web Development**, **UI/UX Design**, and **JavaScript** technologies
 - 🚀 Always ready to collaborate on open-source and client projects
 
-📫 **Reach me at:** mehulsample@gmail.com
+📫 **Reach me at:** mehulagarwal2302@gmail.com
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 💻 Programming Languages
-`JavaScript` `TypeScript` `Python` `C` `C++`
-
-### 🚀 Frameworks & Libraries
-`React` `Node.js` `Express.js` `Flutter`
+`JavaScript`  `C` `C++`
 
 ### 🎨 Frontend
-`HTML` `CSS` `Bootstrap` `Tailwind CSS`
+`HTML` `CSS` `Bootstrap` 
 
 ### 🛢️ Databases
-`MongoDB` `MySQL` `Firebase`
-
-### ☁️ DevOps
-`Netlify` `Vercel` `GitHub Actions`
+ `MySQL`
 
 ### 🧰 Tools
-`VS Code` `Figma` `Canva` `Git`
+`VS Code` `Canva` `Git`
 
 ---
 
