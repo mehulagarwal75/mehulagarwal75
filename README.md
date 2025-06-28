@@ -6,7 +6,7 @@
 <p align="center"><em>Empowering Ideas Through Code</em></p>
 
 <p align="center">
-  <img src="https://github2.gif/github2.gif" alt="Coding From Home" width="200"/>
+  <img src="https://raw.githubusercontent.com/MehulAgarwalDev/mehulagarwal/main/github2.gif" alt="Coding From Home" width="200"/>
 </p>
 
 <p align="center">
