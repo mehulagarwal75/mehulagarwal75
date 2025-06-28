@@ -51,9 +51,3 @@ I'm an enthusiastic developer and passionate about building digital products and
 
 ### 🧰 Tools
 `VS Code` `Canva` `Git`
-
----
-
-> "Stay curious. Keep learning. Build awesome stuff!"
-
----
