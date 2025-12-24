@@ -36,12 +36,12 @@ Hi! I'm **Mehul**. I transform complex problems into beautiful, functional code.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehulagarwal75&show_icons=true&theme=radical&hide_border=true" alt="Mehul's Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulagarwal75&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
