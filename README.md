@@ -1,82 +1,60 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto" alt="Coding GIF" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mehul+Agarwal;Full+Stack+Web+Developer;Open+to+Opportunities" alt="Typing SVG" />
+  
+  <br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mehul+Agarwal;Empowering+Ideas+Through+Code;Web+Developer+%26+UI%2FUX+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehulagarwal75&style=flat-square&color=blue" alt="Profile Views" />
+  <p>
+    <a href="https://linkedin.com/in/YOUR-ACTUAL-USERNAME-HERE">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:mehulagarwal2302@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/mehulagarwal75">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
+I am a developer focused on building scalable web applications. I bridge the gap between complex backend logic and beautiful frontend design.
 
-Hi! I'm **Mehul**. I transform complex problems into beautiful, functional code.
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **React.js & Node.js**
-- 🤝 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, C++, and UI Design**
-- 📫 Reach me at: **[mehulagarwal2302@gmail.com](mailto:mehulagarwal2302@gmail.com)**
+- 💼 **Current Focus:** Full Stack Web Development (MERN Stack).
+- 🔭 **Working on:** Building responsive UI components and efficient REST APIs.
+- 🤝 **Open to:** Internships and Junior Developer roles.
+- 💬 **Ask me about:** C++, JavaScript, and System Design.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 Featured Projects
 
-<div align="center">
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Library Management System](https://github.com/mehulagarwal75/library-project-)** | A digital inventory system to manage book records, member tracking, and borrowing history efficiently. | ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5) ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript) |
+| **[Advocate Management System](https://github.com/mehulagarwal75/node/tree/main/Advocate%20Project)** | A comprehensive tool for legal professionals to organize case files, client details, and schedules. | ![Node](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white) |
+| **[Portfolio Website](https://github.com/mehulagarwal75)** | A responsive personal portfolio showcasing my skills and projects. | ![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) |
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+---
 
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### 🛠 Technical Skills
 
-**Backend & Tools**
-<br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="left">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) |
+| **Backend & DB** | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
 ---
 
-
-### 📊 GitHub Stats
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulagarwal75&show_icons=true&theme=radical&hide_border=true" height="150" alt="Mehul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulagarwal75&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div> -->
-
-<!-- <br>
-
+### 📊 Coding Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulagarwal75&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
- -->
-
----
-### 🤝 Connect With Me
-
-<div align="center">
-<a href="mailto:mehulagarwal2302@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/RNW MEHUL AGARWAL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulagarwal75&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulagarwal75&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages" />
 </div>
