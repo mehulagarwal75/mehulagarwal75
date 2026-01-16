@@ -4,7 +4,7 @@
   <br/>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR-ACTUAL-USERNAME-HERE">
+    <a href="https://linkedin.com/in/RNW MEHUL AGARWAL">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:mehulagarwal2302@gmail.com">
