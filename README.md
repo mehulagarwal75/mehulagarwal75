@@ -86,8 +86,4 @@ I am a developer focused on building scalable web applications. I bridge the gap
 
 ---
 
-### 📊 Coding Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulagarwal75&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulagarwal75&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages" />
-</div>
+
