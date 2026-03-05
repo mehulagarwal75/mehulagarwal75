@@ -20,14 +20,21 @@
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4> Medical Clinics OS</h4>
       <p>A sleek digital inventory system. Engineered for speed and member tracking.</p>
       <code>HTML5</code> <code>JavaScript</code> <code>CSS3</code>
       <br/><br/>
       <a href="https://medical-clinics-website-app.vercel.app/"><b>View Project →</b></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h4> Libary OS</h4>
+      <p>A sleek digital inventory system. Engineered for speed and member tracking.</p>
+      <code>HTML5</code> <code>JavaScript</code> <code>CSS3</code>
+      <br/><br/>
+      <a href="https://library-project-plum.vercel.app/"><b>View Project →</b></a>
+    </td>
+    <td width="33%" valign="top">
       <h4>⚖️ Advocate Hub</h4>
       <p>Comprehensive case management for legal pros. Focused on DB efficiency.</p>
       <code>Node.js</code> <code>MySQL</code> <code>Express</code>
