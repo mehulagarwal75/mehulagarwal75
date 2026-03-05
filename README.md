@@ -21,11 +21,11 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>📚 Library OS</h4>
+      <h4> Medical Clinics OS</h4>
       <p>A sleek digital inventory system. Engineered for speed and member tracking.</p>
       <code>HTML5</code> <code>JavaScript</code> <code>CSS3</code>
       <br/><br/>
-      <a href="https://github.com/mehulagarwal75/library-project-"><b>View Project →</b></a>
+      <a href="https://medical-clinics-website-app.vercel.app/"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>⚖️ Advocate Hub</h4>
